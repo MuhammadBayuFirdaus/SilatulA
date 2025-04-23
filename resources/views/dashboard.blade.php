@@ -14,10 +14,12 @@
     <main class="content">
         <section class="news">
             <article class="news-item">
+                <img src="{{ asset('images/whatsapp-logo.png') }}" alt="WhatsApp" width="24">
                 <h2>Breaking News</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="#read-more">Read more...</a></p>
             </article>
             <article class="news-item">
+                <img src="{{ asset('images/whatsapp-logo.png') }}" alt="WhatsApp" width="24">
                 <h2>Technology Update</h2>
                 <p>Latest trends in AI and machine learning. <a href="#read-more">Read more...</a></p>
             </article>
